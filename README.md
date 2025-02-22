@@ -78,6 +78,18 @@ Open-source licenses define how software can be used, modified, and shared. Choo
 ⚖️ **Requirements:** None—no restrictions at all.  
 🔹 **Best For:** Projects where the author wants full public freedom.
 
+## 🔍 Other Licenses
+
+While these are the most commonly used open-source licenses, others exist, such as:
+- **Zlib License**
+- **Open Software License**
+- **Artistic License**
+
+If none of the above fit your needs, researching more specific licenses might be beneficial. To explore more, visit:
+- [Choose a License](https://choosealicense.com)
+- [OSI Approved Licenses](https://opensource.org/licenses)
+
+
 ---
 
 ## 📊 Summary Table
@@ -99,17 +111,6 @@ Open-source licenses define how software can be used, modified, and shared. Choo
 | **Unlicense** | Maximum | No | Full public domain release |
 
 ---
-
-## 🔍 Other Licenses
-
-While these are the most commonly used open-source licenses, others exist, such as:
-- **Zlib License**
-- **Open Software License**
-- **Artistic License**
-
-If none of the above fit your needs, researching more specific licenses might be beneficial. To explore more, visit:
-- [Choose a License](https://choosealicense.com)
-- [OSI Approved Licenses](https://opensource.org/licenses)
 
 Choosing the right license is crucial—think about whether you want to enforce openness (**GPL**), give maximum freedom (**MIT**), or protect against patent risks (**Apache 2.0**).
 
