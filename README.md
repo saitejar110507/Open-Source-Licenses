@@ -110,3 +110,4 @@ Open-source licenses define how software can be used, modified, and shared. Choo
 
 Choosing the right license is crucial—consider openness (**GPL**), flexibility (**MIT**), or legal protection (**Apache 2.0**). Hope this helps in making an informed decision! 🚀
 
+
